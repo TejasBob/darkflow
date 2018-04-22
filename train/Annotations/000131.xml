@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>000131.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>266</width>
+    <height>189</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>fidget_spinner</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>119</xmin>
+      <ymin>11</ymin>
+      <xmax>180</xmax>
+      <ymax>77</ymax>
+    </bndbox>
+  </object>
+</annotation>

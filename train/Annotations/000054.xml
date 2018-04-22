@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>000054.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>290</width>
+    <height>174</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>fidget_spinner</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>17</xmin>
+      <ymin>42</ymin>
+      <xmax>82</xmax>
+      <ymax>132</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fidget_spinner</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>204</xmin>
+      <ymin>31</ymin>
+      <xmax>240</xmax>
+      <ymax>95</ymax>
+    </bndbox>
+  </object>
+</annotation>
