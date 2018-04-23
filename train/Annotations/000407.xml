@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>000407.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>500</width>
+    <height>322</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>daisy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>183</xmin>
+      <ymin>11</ymin>
+      <xmax>468</xmax>
+      <ymax>262</ymax>
+    </bndbox>
+  </object>
+</annotation>
